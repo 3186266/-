@@ -9,7 +9,7 @@
 获取ck：  打开软件点击我的，右上角签到即可获取
 
 重写：
-QX重写：https://aiqicha.baidu.com/zxcenter url script-request-header ifaqc.js
+QX重写：https://aiqicha.baidu.com/zxcenter url script-request-header https://raw.githubusercontent.com/3186266/BF/main/aqc.js
 
 主机名：hostname = aiqicha.baidu.com
 
